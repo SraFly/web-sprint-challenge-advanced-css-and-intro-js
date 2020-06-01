@@ -143,8 +143,11 @@ button:hover{
     }
     .artists-container .artist{
         width: 100%;
+        margin: 0 auto;
+        display: flex;
         flex-direction: column;
-        justify-content: center;
+        justify-content: space-evenly;
+        
     }
 
 }
